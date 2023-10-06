@@ -1,0 +1,27 @@
+h1{
+    color:white;
+}
+h2{
+    color:green;
+}
+h3{
+    color: white;
+}
+p{
+    color:wheat;
+    font-size: 16px;
+}
+a{
+    color:red;
+    text-decoration: none;
+}
+body{
+    background-color: navy;
+}
+.header{
+    text-align: center;
+}
+.footer{
+    text-align: center;
+    background-color:#11244d ;
+}
