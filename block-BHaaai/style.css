@@ -1,0 +1,28 @@
+body{
+    background-color: navy;
+}
+.header{
+    text-align: center;
+}
+h1{
+    color:white;
+}
+h3{
+    color:white;
+}
+h2{
+    color:green;
+}
+.footer {
+    background-color: #11244d;
+    text-align: center;
+}
+p{
+    color:wheat;
+    font-size: 16px;
+}
+a{
+    color:red;
+    text-decoration: none;
+}
+
